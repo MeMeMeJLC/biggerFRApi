@@ -242,7 +242,24 @@
     </Compile>
     <Compile Include="Models\AccountBindingModels.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Administration\AdministrativeBody.cs" />
+    <Compile Include="Models\Administration\Coach.cs" />
+    <Compile Include="Models\Administration\Game.cs" />
+    <Compile Include="Models\SmartWatch\GamePlayer.cs" />
+    <Compile Include="Models\SmartWatch\Goal.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\Administration\League.cs" />
+    <Compile Include="Models\Administration\LeagueSeason.cs" />
+    <Compile Include="Models\Administration\Location.cs" />
+    <Compile Include="Models\SmartWatch\Penalty.cs" />
+    <Compile Include="Models\Administration\PenaltyType.cs" />
+    <Compile Include="Models\Administration\Player.cs" />
+    <Compile Include="Models\Administration\Referee.cs" />
+    <Compile Include="Models\Administration\Season.cs" />
+    <Compile Include="Models\SmartWatch\Substitution.cs" />
+    <Compile Include="Models\SmartWatch\SubstitutionGoingOff.cs" />
+    <Compile Include="Models\SmartWatch\SubstitutionGoingOn.cs" />
+    <Compile Include="Models\Administration\Team.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Providers\ApplicationOAuthProvider.cs" />
     <Compile Include="Results\ChallengeResult.cs" />
