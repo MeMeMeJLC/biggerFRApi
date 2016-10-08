@@ -88,3 +88,7 @@ D:\VS2015 projects\BiggerFRApi\BiggerFRApi\bin\System.Web.Http.Owin.xml
 D:\VS2015 projects\BiggerFRApi\BiggerFRApi\obj\Debug\BiggerFRApi.csprojResolveAssemblyReference.cache
 D:\VS2015 projects\BiggerFRApi\BiggerFRApi\obj\Debug\BiggerFRApi.dll
 D:\VS2015 projects\BiggerFRApi\BiggerFRApi\obj\Debug\BiggerFRApi.pdb
+D:\VS2015 projects\BiggerFRApi\BiggerFRApi\bin\Swashbuckle.Core.dll
+D:\VS2015 projects\BiggerFRApi\BiggerFRApi\bin\WebActivatorEx.dll
+D:\VS2015 projects\BiggerFRApi\BiggerFRApi\obj\Debug\BiggerFRApi.Migrations.InitialCreate.resources
+D:\VS2015 projects\BiggerFRApi\BiggerFRApi\obj\Debug\BiggerFRApi.csproj.GenerateResource.Cache

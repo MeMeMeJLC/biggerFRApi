@@ -9,8 +9,8 @@ namespace BiggerFRApi.Models
     {
         public int Id { get; set; }
         public int Year { get; set; }
-        public int StartDate { get; set; }
-        public int EndDate { get; set; }
+        public DateTime StartDate { get; set; }
+        public DateTime EndDate { get; set; }
 
         public virtual ICollection<LeagueSeason> LeagueSeasons { get; set; }
     }
